@@ -1,0 +1,10 @@
+/*Custom CSS*/
+
+iframe{
+ height: 297px;
+ width: 100%;	
+}
+
+.poptrox-popup .caption{
+	height: 105px
+}
